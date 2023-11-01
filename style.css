@@ -16,6 +16,7 @@ body {
 
 .cabecalho-imagem{
     width: 20%;
+    border-radius: 20px;
 }
 
 .cabecalho-lista-item{
@@ -80,13 +81,19 @@ body {
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
+#equipe-pedagogica{
+    padding: 24px 0;
+}
+
 .rodape{
     background-color: black;
     text-align: center;
 }
 
 .rodape-imagem{
-    height: 60px;
+    height: 80px;
+    width: 20%;
     padding: 12px 0;
+    border-radius: 24px;
    
 }
