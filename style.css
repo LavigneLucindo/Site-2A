@@ -30,26 +30,29 @@ body {
     color: white;
 }
 
-.escola-imagem{
-    width: 25%;
+.mat2-imagem{
+    width: 35%;
+    border-radius: 10%;
 }
 
-#escola{
+#matematica-2{
     background-image: linear-gradient(#424E61,#16CFF8);
     color:white;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 22px 0;
 }
 
-.escola-div-conteudo{
-    width: 35%;
+.matematica-2-div-conteudo{
+    width: 45%;
+    font-size: 18px;
 }
 
 
-.escola-titulo{
-    padding: 24px 0;
+.matematica-2-titulo{
+    padding: 25px 0;
+    font-size: 30px;
 }
 
 #estudante{
